@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fast-integration.iml" filepath="$PROJECT_DIR$/.idea/modules/fast-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/app.iml" filepath="$PROJECT_DIR$/library/app.iml" />
     </modules>
   </component>
 </project>
